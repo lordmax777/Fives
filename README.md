@@ -1,6 +1,6 @@
-# Drop Down
-# Dot Stepper
-# Login Page and others.
+## Drop Down
+## Dot Stepper
+## Login Page and others.
 
 <a href="https://ibb.co/28vGs8s"><img src="https://i.ibb.co/hXB3ZXZ/cc.jpg" alt="cc" border="0" width="100"></a>
 <a href="https://ibb.co/5TzPpnf"><img src="https://i.ibb.co/8MRHvdS/dd.jpg" alt="dd" border="0" width="100"></a>
@@ -9,7 +9,8 @@
 
 A new Flutter project.
 
-## Getting Started
+# Flutter pub get
+# flutter run
 
 This project is a starting point for a Flutter application.
 
